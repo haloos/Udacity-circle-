@@ -1,3 +1,3 @@
 # Udacity-circle-
-School Project
+School Project/
 Gaing some experieance using circleci
