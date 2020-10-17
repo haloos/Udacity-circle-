@@ -1,3 +1,3 @@
 # Udacity-circle-
 School Project/
-Gaing some experience using circleci
+Gaining some experience using circleci
